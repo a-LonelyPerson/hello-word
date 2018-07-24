@@ -3,7 +3,7 @@ just joined GitHub, lol
 
 TRY:
 int chanceOfSuccess = 0;
-successs = try(chanceOfSuccess)
+bool successs = try(chanceOfSuccess)
 if(!successs)
 {
   chanceOfSuccess++;
